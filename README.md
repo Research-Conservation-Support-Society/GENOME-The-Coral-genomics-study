@@ -46,24 +46,28 @@ This will be done through the following objectives:
 ## Collaborators
 ### Main Funder
 
-[Revive&Restore](https://reviverestore.org/)
-![PUBREC_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png)
+** [Revive&Restore](https://reviverestore.org/) **
+
+![Revive and restore](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png)
 
 ### Partner institutes
  1. [Pwani University Bioisciences Research Centre](www.pubrec.pubrec.pu.ac.ke)
+
  ![PUBREC_LOGO](https://coralgenomics.recourse.co.ke/wp-content/uploads/2025/09/PUBREC_LOGO-removebg-preview.png)
 
  2. [Research and conservation support society](www.recourse.co.ke)
 ![Recourse_logo](https://www.recourse.co.ke/wp-content/uploads/2025/04/Screenshot-2025-04-19-at-13.19.09.webp)
 
  3. [REEFolution Foundation](www.reefolution.org)
- ![PUBREC_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reefolution_logo.png)
+
+ ![reefolution_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reefolution_logo.png)
 
  4. [Kenya Wildlife Service](www.kws.go.ke)
- ![PUBREC_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/kws_logo.png)
+ ![kws_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/kws_logo.png)
 
  5. [Kenya Wildlife and Research Institute](www.wrti.go.ke)
- ![PUBREC_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/WIRTI-Logo-web.png)
+
+ ![writi_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/WIRTI-Logo-web.png)
 
  6. [James Cook University Australia](www.jcu.edu.au)
- ![PUBREC_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/jcu_logo.png)
+ ![Jamescook_logo](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/jcu_logo.png)
