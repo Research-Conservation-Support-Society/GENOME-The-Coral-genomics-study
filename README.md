@@ -46,7 +46,7 @@ This will be done through the following objectives:
 ## Collaborators
 ### Main Funder
 
-** [Revive&Restore](https://reviverestore.org/) **
+**[Revive&Restore](https://reviverestore.org/)**
 
 ![Revive and restore](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png)
 
