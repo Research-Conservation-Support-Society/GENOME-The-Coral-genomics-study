@@ -51,19 +51,25 @@ This will be done through the following objectives:
 
 ### Partner institutes
 1. [Pwani University Bioisciences Research Centre](http://pubrec.pu.ac.ke/)
+
 [![PUBREC_LOGO](https://coralgenomics.recourse.co.ke/wp-content/uploads/2025/09/PUBREC_LOGO-removebg-preview.png)](http://pubrec.pu.ac.ke/)
 
 2. [Research and conservation support society](https://www.recourse.co.ke/)
+
 [![Recourse_logo](https://www.recourse.co.ke/wp-content/uploads/2025/04/Screenshot-2025-04-19-at-13.19.09.webp)](https://www.recourse.co.ke/)
 
 3. [REEFolution Foundation](https://reefolution.org/)
+
 [![reefolution_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reefolution_logo.png)](https://reefolution.org/)
 
 4. [Kenya Wildlife Service](https://www.kws.go.ke/)
+
 [![kws_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/kws_logo.png)](https://www.kws.go.ke/)
 
 5. [Kenya Wildlife Training and Research Institute](https://wrti.go.ke/)
+
 [![writi_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/WIRTI-Logo-web.png)](https://wrti.go.ke/)
 
 6. [James Cook University Australia](https://www.jcu.edu.au/)
+
 [![Jamescook_logo](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/jcu_logo.png)](https://www.jcu.edu.au/)
