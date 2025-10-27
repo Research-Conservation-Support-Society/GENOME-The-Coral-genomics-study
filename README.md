@@ -41,33 +41,33 @@ This will be done through the following objectives:
 3. [Results](https://coralgenomics.recourse.co.ke/)
 
   - Research outputs and publications
-
+[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
 ## Collaborators
 ### Main Funder
 
 **[Revive&Restore](https://reviverestore.org/)**
 
-<a> ![Revive and restore](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png) </a>
+[Revive and restore](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png)](https://reviverestore.org/)
 
 ### Partner institutes
 1. [Pwani University Bioisciences Research Centre](http://pubrec.pu.ac.ke/)
 
-<a> ![PUBREC_LOGO](https://coralgenomics.recourse.co.ke/wp-content/uploads/2025/09/PUBREC_LOGO-removebg-preview.png) </a>
+<a>![PUBREC_LOGO](https://coralgenomics.recourse.co.ke/wp-content/uploads/2025/09/PUBREC_LOGO-removebg-preview.png)</a>
 
 2. [Research and conservation support society](https://www.recourse.co.ke/)
 <a>![Recourse_logo](https://www.recourse.co.ke/wp-content/uploads/2025/04/Screenshot-2025-04-19-at-13.19.09.webp)</a>
 
 3. [REEFolution Foundation](https://reefolution.org/)
 
-<a> ![reefolution_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reefolution_logo.png)</a>
+<a>![reefolution_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reefolution_logo.png)</a>
 
 4. [Kenya Wildlife Service](https://www.kws.go.ke/)
 
-<a> ![kws_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/kws_logo.png)</a>
+<a>![kws_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/kws_logo.png)</a>
 
 5. [Kenya Wildlife Training and Research Institute](https://wrti.go.ke/)
 
-<a> ![writi_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/WIRTI-Logo-web.png) </a>
+<a>![writi_LOGO](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/WIRTI-Logo-web.png)</a>
 
 6. [James Cook University Australia](https://www.jcu.edu.au/)
 
