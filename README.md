@@ -47,7 +47,7 @@ This will be done through the following objectives:
 
 **[Revive&Restore](https://reviverestore.org/)**
 
-[Revive and restore](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png)](https://reviverestore.org/)
+[![Revive and restore](https://github.com/Research-Conservation-Support-Society/GENOME-The-Coral-genomics-study/blob/main/assets/images/reviveandrestore_logo.png)](https://reviverestore.org/)
 
 ### Partner institutes
 1. [Pwani University Bioisciences Research Centre](http://pubrec.pu.ac.ke/)
