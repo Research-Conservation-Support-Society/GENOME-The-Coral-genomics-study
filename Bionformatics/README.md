@@ -18,7 +18,7 @@ This pipeline will be optimized for:
 - Poorly preserved samples
 - Multiple coral genera
 - Conservation-driven taxonomy and marker development
-
+```
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Genome skimming workflow">
   <style>
@@ -153,7 +153,7 @@ This pipeline will be optimized for:
 </svg>
  -->
 </div>
-
+```
 
 
 
