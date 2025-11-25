@@ -20,7 +20,6 @@ This pipeline will be optimized for:
 - Conservation-driven taxonomy and marker development
 
 <div align="center">
-<!-- <!-- Save as genomeskim_workflow.svg or paste directly into README.md -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Genome skimming workflow">
   <style>
     .bg { fill: #ffffff; }
