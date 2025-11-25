@@ -189,7 +189,7 @@ All tools run inside a Conda environment:
 
 
 
-**Summary of What the Pipeline Produces**
+**Summary the Pipeline Products**
 1. Genome assemblies
 2. De novo assemblies with SPAdes
 3. Complete mitogenomes
