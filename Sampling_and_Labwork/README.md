@@ -10,13 +10,13 @@ These protocols ensure reproducibility, transparency, and consistency across fie
 
 ## Included Protocol Files
 
-- **SAMPLING_PROTOCOL.md**  
+- **sampling_protocol.md**  
   Standard operating procedure for field collection of coral tissue samples, including contamination control, preservation, and metadata requirements.
 
-- **DNA_EXTRACTION_PROTOCOL.md**  
+- **DNAextraction_protocol.md**  
   Sample processing and genomic DNA extraction workflow using the **TIANamp Genomic DNA Kit (TIANGEN)**.
 
-- **3RAD_LIBRARY_PREPARATION_PROTOCOL.md**  
+- **3RAD_librarypreparation_protocol.md**  
   Complete laboratory workflow for generating 3RAD sequencing libraries following Bayona-Vásquez et al. (2019).
 
 ---
@@ -69,6 +69,7 @@ For updates, questions, or contribution requests:
 
 **Nabwire Asatsa**  
 nabwireasatsa@gmail.com
+
 Pwani University Bioscience Research Centre (PUBReC)
 
 ---
